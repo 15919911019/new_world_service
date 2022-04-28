@@ -1,0 +1,219 @@
+2022-04-26 09:35:10,904  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 09:56:26,722  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 10:01:49,906  [13]  ERROR  写入数据异常 tabname:Dev_Unit
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'OperationPerson' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-26 10:06:29,936  [42]  ERROR  写入数据异常 tabname:Dev_Unit
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'OperationPerson' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-26 10:07:41,712  [41]  ERROR  写入数据异常 tabname:Dev_Unit
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'OperationPerson' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-26 10:19:28,467  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 10:25:00,248  [17]  ERROR  写入数据异常 tabname:Dev_Unit
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'OperationPerson' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-26 10:32:15,988  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 10:34:53,449  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 10:49:18,350  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 10:53:08,534  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 11:01:24,647  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 11:04:04,271  [16]  ERROR  更新设备信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column '测试设备1' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.DeviceServices.Dal.DeviceDal.UpdateDevice(String name, String unitID, String id) in F:\Work\Plan B\service\TCService\Business.DeviceServices\Dal\DeviceDal.cs:line 41
+   at Business.DeviceServices.DeviceService.<>c__DisplayClass15_0.<UpdateDevice>b__0() in F:\Work\Plan B\service\TCService\Business.DeviceServices\DeviceService.cs:line 73
+2022-04-26 11:04:48,644  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 11:05:34,661  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 11:07:18,879  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 11:36:20,231  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-26 11:36:28,023  [21]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:36:28,409  [18]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:36:29,188  [17]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:36:29,822  [17]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:36:30,762  [17]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:36:30,989  [19]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:37:25,448  [4]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:38:24,878  [4]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit...' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:38:39,145  [4]  ERROR  查询数据异常 sql：select dev.*, unit.unitname, unit.recordid as unitid, site.sitename, site.recordid as siteid from Dev_Device dev left join dev_unit unit on dev.unitid = unit.recordid left join dev_site site in unit.siteid = site.recordid where 1=1 and 1=1 
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'in unit.siteid = site.recordid where 1=1 and 1=1' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-26 11:51:33,935  [1]  ERROR  组件没有名称：PermissionBaseService

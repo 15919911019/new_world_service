@@ -1,0 +1,11 @@
+F:\work\SpecialLocalProduct\TCService\Public.Tools\bin\Release\net5.0\Public.Tools.deps.json
+F:\work\SpecialLocalProduct\TCService\Public.Tools\bin\Release\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Public.Tools\bin\Release\net5.0\ref\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Public.Tools\bin\Release\net5.0\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\Public.Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\Public.Tools.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\Public.Tools.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\Public.Tools.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\ref\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Public.Tools\obj\Release\net5.0\Public.Tools.pdb

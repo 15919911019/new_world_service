@@ -1,0 +1,12 @@
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Release\net5.0\Business.ImageModels.deps.json
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Release\net5.0\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Release\net5.0\ref\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Release\net5.0\Business.ImageModels.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\ref\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Release\net5.0\Business.ImageModels.pdb

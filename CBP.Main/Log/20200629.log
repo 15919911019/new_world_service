@@ -1,0 +1,52 @@
+2020-06-29 09:51:47,656  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 09:51:48,033  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 09:53:15,994  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 09:53:16,012  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 09:54:45,957  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 09:54:45,977  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 09:55:03,460  [10]  ERROR  写入数据异常 tabname:Business_Category
+System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CBP"。登录失败。
+用户 'LAPTOP-O2VPTG4M\liyanqi' 登录失败。
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Public.DbHelper.Sql.SqlClient.Insert[T](T t, String tableName) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\Sql\SqlClient.cs:line 53
+ClientConnectionId:c395b9d8-0a84-47cd-8e84-eba698cf0d75
+Error Number:4060,State:1,Class:11
+2020-06-29 09:55:26,839  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 09:55:26,856  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 09:57:26,446  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 09:57:26,465  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 10:06:03,985  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 10:06:04,004  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 10:11:53,587  [8]  ERROR  查询商品种类异常
+Element '_id' does not match any field or property of class Business.GoodsModels.Category.CategoryModel.
+2020-06-29 10:12:23,958  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 10:12:23,976  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 10:13:01,235  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 10:13:01,255  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:26:02,573  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:26:02,593  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:27:45,987  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:27:46,006  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:30:07,234  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:30:07,254  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:31:24,085  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:31:24,104  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:33:29,668  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:33:29,686  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:35:13,746  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:35:13,768  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:48:06,173  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:48:06,194  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-06-29 14:48:39,278  [1]  ERROR  组件没有名称：DandingService
+2020-06-29 14:48:39,297  [1]  ERROR  组件没有名称：PermissionBaseService

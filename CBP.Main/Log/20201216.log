@@ -1,0 +1,272 @@
+2020-12-16 21:50:05,929  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 21:50:43,747  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 21:50:43,780  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 21:50:43,796  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:02:02,300  [4]  ERROR  创建权限功能失败
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'root' using method 'caching_sha2_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Public.DbHelper.MySql.MySqlClient.Exists(String sql) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 387
+   at CBP.Permission.Services.Function.FunctionService.<>c__DisplayClass5_0.<Create>b__0() in F:\work\SpecialLocalProduct\TCService\CBP.Permission.Services\Function\FunctionService.cs:line 39
+2020-12-16 22:02:38,460  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:02:39,137  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:02:39,189  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:02:39,209  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:10:02,134  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:10:02,612  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:10:02,639  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:10:02,649  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:10:19,684  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:10:20,417  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:10:20,459  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:10:20,479  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:11:11,995  [4]  ERROR  创建权限功能失败
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ss' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Exists(String sql) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 389
+   at CBP.Permission.Services.Function.FunctionService.<>c__DisplayClass5_0.<Create>b__0() in F:\work\SpecialLocalProduct\TCService\CBP.Permission.Services\Function\FunctionService.cs:line 39
+2020-12-16 22:16:55,555  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:16:56,265  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:16:56,289  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:16:56,300  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:19:39,267  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:19:39,840  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:19:39,872  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:19:39,886  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:19:42,219  [4]  ERROR  创建权限功能失败
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at CBP.Permission.Services.Function.FunctionService.<>c__DisplayClass5_0.<Create>b__0() in F:\work\SpecialLocalProduct\TCService\CBP.Permission.Services\Function\FunctionService.cs:line 32
+2020-12-16 22:19:50,366  [10]  ERROR  创建权限功能失败
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at CBP.Permission.Services.Function.FunctionService.<>c__DisplayClass5_0.<Create>b__0() in F:\work\SpecialLocalProduct\TCService\CBP.Permission.Services\Function\FunctionService.cs:line 32
+2020-12-16 22:20:24,635  [4]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Function where FunctionName like `%ss%`' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 343
+2020-12-16 22:20:34,557  [4]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Function where FunctionName like `%ss%`' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 343
+2020-12-16 22:20:48,542  [15]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Function where FunctionName like `%xx%`' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 343
+2020-12-16 22:21:42,961  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:21:43,626  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:21:43,658  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:21:43,671  [1]  ERROR  组件没有名称：PermissionBaseService
+2020-12-16 22:22:19,437  [21]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column '%ss%' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 343
+2020-12-16 22:24:52,615  [21]  ERROR  查询数据异常
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 343
+2020-12-16 22:25:02,369  [24]  ERROR  查询数据异常
+System.InvalidCastException: Unable to cast object of type 'System.Int64' to type 'System.Int32'.
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 347
+2020-12-16 22:25:25,510  [17]  ERROR  查询数据异常
+System.InvalidCastException: Unable to cast object of type 'System.Int64' to type 'System.Int32'.
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where) in F:\work\SpecialLocalProduct\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 347
+2020-12-16 22:32:16,397  [17]  ERROR  查询数据异常
+System.InvalidCastException: Unable to cast object of type 'System.Int64' to type 'System.Int32'.
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String tabName, Int32 pageIndex, Int32 pageSize, String where)
+2020-12-16 22:33:26,429  [1]  ERROR  AutoMapperProfilesRegister Name:F:\work\SpecialLocalProduct\TCService\CBP.Main\bin\Debug\netcoreapp3.0\Business.LocationModels.dll
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationModels, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at CBP.Main.Core.CoreAutoMapper.AutoMapperRegister.AutoMapperProfilesRegister(IServiceCollection services) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\CoreAutoMapper\AutoMapperRegister.cs:line 34
+
+
+2020-12-16 22:33:26,963  [1]  ERROR  组件实例化异常 Name:Business.LocationServices
+System.IO.FileNotFoundException: Could not load file or assembly 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'. 系统找不到指定的文件。
+File name: 'Business.LocationServices, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly assemblyContext, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at CBP.Main.Core.Service.ServiceRegister.Regiser(IServiceCollection services, IConfiguration configuration) in F:\work\SpecialLocalProduct\TCService\CBP.Main\Core\Service\ServiceRegister.cs:line 32
+
+
+2020-12-16 22:33:26,992  [1]  ERROR  组件没有名称：DandingService
+2020-12-16 22:33:27,008  [1]  ERROR  组件没有名称：PermissionBaseService

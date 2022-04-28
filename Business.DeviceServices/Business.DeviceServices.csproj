@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Area\Business.AreaServices.csproj" />
+    <ProjectReference Include="..\Business.DeviceModels\Business.DeviceModels.csproj" />
+    <ProjectReference Include="..\CBP.BaseServices\CBP.BaseServices.csproj" />
+  </ItemGroup>
+
+</Project>

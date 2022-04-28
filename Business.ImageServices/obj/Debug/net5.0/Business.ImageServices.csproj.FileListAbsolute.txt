@@ -1,0 +1,50 @@
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.deps.json
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\ref\Business.ImageServices.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.BaseServices.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Public.DbHelper.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageModels.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.BaseServices.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.Models.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Public.DbHelper.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\bin\Debug\net5.0\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csproj.CopyComplete
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\ref\Business.ImageServices.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.deps.json
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\ref\Business.ImageServices.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageModels.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.BaseServices.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.Models.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Public.DbHelper.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Public.Tools.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageModels.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.BaseServices.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.Models.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Public.DbHelper.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Public.Tools.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csprojAssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.AssemblyInfoInputs.cache
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.AssemblyInfo.cs
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csproj.CoreCompileInputs.cache
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csproj.CopyComplete
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\ref\Business.ImageServices.dll
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.pdb

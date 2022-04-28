@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CBP.BaseServices\CBP.BaseServices.csproj" />
+    <ProjectReference Include="..\CBP.Models\CBP.Models.csproj" />
+    <ProjectReference Include="..\CBP.Permission.Models\CBP.Permission.Models.csproj" />
+    <ProjectReference Include="..\CBP.UserServices\CBP.UserServices.csproj" />
+    <ProjectReference Include="..\Pulice.Logger\Pulice.Logger.csproj" />
+  </ItemGroup>
+
+</Project>

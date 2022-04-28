@@ -1,0 +1,38 @@
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Permission.Models.deps.json
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Permission.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\ref\CBP.Permission.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Permission.Models.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Models.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.csproj.CopyComplete
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\ref\CBP.Permission.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.pdb
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Permission.Models.deps.json
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Permission.Models.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\ref\CBP.Permission.Models.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Permission.Models.pdb
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Models.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\Public.Tools.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\CBP.Models.pdb
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\Public.Tools.pdb
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.csprojAssemblyReference.cache
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.AssemblyInfoInputs.cache
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.AssemblyInfo.cs
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.csproj.CoreCompileInputs.cache
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.csproj.CopyComplete
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\ref\CBP.Permission.Models.dll
+F:\Work\Plan B\service\TCService\CBP.Permission.Models\obj\Debug\net5.0\CBP.Permission.Models.pdb

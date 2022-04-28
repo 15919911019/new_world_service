@@ -1,0 +1,17 @@
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\CBP.Models.deps.json
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\ref\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\CBP.Models.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Models\bin\Release\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.csproj.CopyComplete
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\ref\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Release\net5.0\CBP.Models.pdb

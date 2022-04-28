@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>f216894a-4105-4c41-9e3b-ccc04bb3e7a1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Area\Business.AreaServices.csproj" />
+    <ProjectReference Include="..\Business.DeviceServices\Business.DeviceServices.csproj" />
+    <ProjectReference Include="..\Business.ImageServices\Business.ImageServices.csproj" />
+    <ProjectReference Include="..\CBP.BaseServices\CBP.BaseServices.csproj" />
+    <ProjectReference Include="..\CBP.Models\CBP.Models.csproj" />
+    <ProjectReference Include="..\CBP.Permission.Services\CBP.Permission.Services.csproj" />
+    <ProjectReference Include="..\CBP.UserServices\CBP.UserServices.csproj" />
+    <ProjectReference Include="..\Public.Tools\Public.Tools.csproj" />
+    <ProjectReference Include="..\Pulice.Logger\Pulice.Logger.csproj" />
+  </ItemGroup>
+
+</Project>

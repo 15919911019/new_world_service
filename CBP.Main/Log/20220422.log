@@ -1,0 +1,730 @@
+2022-04-22 09:32:29,838  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 09:32:39,503  [20]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:15,719  [4]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:17,142  [39]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:18,090  [4]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:18,930  [7]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:19,520  [5]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '79f59631c19dbae6'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:20,104  [5]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:36:20,560  [5]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:38:55,667  [33]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:38:56,137  [33]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:38:56,403  [35]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:43:04,334  [19]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:43:05,194  [48]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:43:06,050  [51]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '79f59631c19dbae6'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:43:06,824  [5]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:43:07,206  [14]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:55:14,838  [63]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:56:02,678  [64]  ERROR  删除省份信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = 'c4159e6b4a885473'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.ProvinceDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\ProvinceDal.cs:line 50
+   at Business.AreaService.AreaService.<>c__DisplayClass16_0.<DeleteProvince>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 100
+2022-04-22 09:59:31,930  [66]  ERROR  写入数据异常 tabname:Area_Province
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry 'hf' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-22 10:12:03,535  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 10:19:30,777  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 12:37:46,237  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 13:46:19,047  [14]  ERROR  删除城市信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where RecordID = '12d0aa7f57107a8a'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.AreaService.Dal.CityDal.Delete(String reocrdID) in F:\Work\Plan B\service\TCService\Business.Area\Dal\CityDal.cs:line 51
+   at Business.AreaService.AreaService.<>c__DisplayClass20_0.<DeleteCity>b__0() in F:\Work\Plan B\service\TCService\Business.Area\AreaService.cs:line 172
+2022-04-22 13:47:16,701  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 13:55:46,070  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 14:30:59,413  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 14:33:10,063  [18]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordIDleft join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'city.recordIDleft' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 14:33:11,978  [14]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordIDleft join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'city.recordIDleft' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 14:33:12,725  [14]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordIDleft join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'city.recordIDleft' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 14:33:12,888  [18]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordIDleft join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'city.recordIDleft' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 14:33:13,069  [18]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordIDleft join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'city.recordIDleft' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 14:35:33,823  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 14:35:43,617  [20]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordIDleft join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'city.recordIDleft' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 14:47:51,898  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 14:50:54,601  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 14:51:12,660  [24]  ERROR  查询数据异常 sql：select county.*, city.name as city, pro.name as province from Area_County county left join area_city city on county.parent = city.recordID left join area_province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:03:00,123  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 15:03:49,695  [4]  ERROR  查询数据异常 sql：select city.*, pro.name as Province from Area_City city left join area_province pro on city.parent = pro.recordID wherepro.recordID = '58a4c778b883e867'
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wherepro.recordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:03:52,949  [17]  ERROR  查询数据异常 sql：select city.*, pro.name as Province from Area_City city left join area_province pro on city.parent = pro.recordID wherepro.recordID = '44a03e32b0f3b2a7'
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wherepro.recordID = '44a03e32b0f3b2a7'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:04:10,565  [15]  ERROR  查询数据异常 sql：select city.*, pro.name as Province from Area_City city left join area_province pro on city.parent = pro.recordID wherepro.recordID = '58a4c778b883e867'
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wherepro.recordID = '58a4c778b883e867'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:04:39,718  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 15:06:06,029  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 15:08:08,221  [6]  ERROR  查询数据异常 sql：select * from Device
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.device' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:09,462  [21]  ERROR  查询数据异常 sql：select * from Device
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.device' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:10,581  [16]  ERROR  查询数据异常 sql：select * from Device
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.device' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:16,229  [6]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:17,084  [29]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:17,282  [4]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:17,463  [6]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:17,651  [16]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:33,337  [21]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:33,731  [16]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:33,937  [6]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:34,144  [4]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:34,324  [6]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:34,553  [16]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:08:42,954  [6]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:09:09,509  [29]  ERROR  查询数据异常 sql：select * from Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.site' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 15:10:07,142  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 16:42:08,451  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 16:50:34,029  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 16:56:36,493  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 16:58:41,282  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 17:42:24,657  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 17:43:15,166  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 17:57:42,137  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 17:58:28,034  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 18:15:51,849  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 18:19:27,675  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 18:25:20,669  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-22 18:25:39,010  [9]  ERROR  查询数据异常 sql：select site.*, county.name as county, county.recordID as countyID,city.name as city, city.recordID as cityID, pro.name as province, pro.recordID as provinceID from Dev_Site site left join Area_County county on site.countyID = county.record left join Area_City city on county.parent = city.record left join Area_Province pro on city.parent = pro.recordID
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'county.record' in 'on clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteDataset(MySqlConnection connection, String commandText)
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 188
+2022-04-22 18:29:27,216  [1]  ERROR  组件没有名称：PermissionBaseService

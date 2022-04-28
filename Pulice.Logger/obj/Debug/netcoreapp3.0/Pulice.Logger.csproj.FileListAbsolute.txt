@@ -1,0 +1,9 @@
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\netcoreapp3.0\Pulice.Logger.deps.json
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\netcoreapp3.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\netcoreapp3.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\netcoreapp3.0\Pulice.Logger.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\netcoreapp3.0\Pulice.Logger.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\netcoreapp3.0\Pulice.Logger.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\netcoreapp3.0\Pulice.Logger.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\netcoreapp3.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\netcoreapp3.0\Pulice.Logger.pdb

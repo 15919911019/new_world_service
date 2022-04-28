@@ -1,0 +1,11 @@
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Release\net5.0\Pulice.Logger.deps.json
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Release\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Release\net5.0\ref\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Release\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\Pulice.Logger.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\Pulice.Logger.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\Pulice.Logger.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\Pulice.Logger.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\ref\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Release\net5.0\Pulice.Logger.pdb

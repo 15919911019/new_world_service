@@ -1,0 +1,34 @@
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Public.DbHelper.deps.json
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Public.DbHelper.dll
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\ref\Public.DbHelper.dll
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Public.DbHelper.pdb
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.csproj.CopyComplete
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.dll
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\ref\Public.DbHelper.dll
+F:\work\SpecialLocalProduct\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.pdb
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Public.DbHelper.deps.json
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Public.DbHelper.dll
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\ref\Public.DbHelper.dll
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Public.DbHelper.pdb
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Public.Tools.dll
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Public.Tools.pdb
+F:\Work\Plan B\service\TCService\Public.DbHelper\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.csprojAssemblyReference.cache
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.AssemblyInfoInputs.cache
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.AssemblyInfo.cs
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.csproj.CoreCompileInputs.cache
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.csproj.CopyComplete
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.dll
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\ref\Public.DbHelper.dll
+F:\Work\Plan B\service\TCService\Public.DbHelper\obj\Debug\net5.0\Public.DbHelper.pdb

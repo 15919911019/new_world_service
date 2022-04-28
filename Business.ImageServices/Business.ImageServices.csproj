@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.ImageModels\Business.ImageModels.csproj" />
+    <ProjectReference Include="..\CBP.BaseServices\CBP.BaseServices.csproj" />
+    <ProjectReference Include="..\CBP.Models\CBP.Models.csproj" />
+    <ProjectReference Include="..\Pulice.Logger\Pulice.Logger.csproj" />
+  </ItemGroup>
+
+</Project>

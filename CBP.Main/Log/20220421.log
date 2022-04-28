@@ -1,0 +1,273 @@
+2022-04-21 09:16:55,724  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 09:20:19,011  [20]  ERROR  更新站点信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from Site set SiteName = '????' where RecordID = '8b903b36b3b21c62'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 32
+   at Business.DeviceServices.DeviceService.<>c__DisplayClass13_0.<UpdateSite>b__0()
+2022-04-21 09:28:31,386  [20]  ERROR  更新站点信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from Site set SiteName = '????' where RecordID = '8b903b36b3b21c62'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 32
+   at Business.DeviceServices.DeviceService.<>c__DisplayClass13_0.<UpdateSite>b__0()
+2022-04-21 09:29:18,759  [28]  ERROR  更新站点信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from Site set SiteName = '????' where RecordID = '8b903b36b3b21c62'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 32
+   at Business.DeviceServices.DeviceService.<>c__DisplayClass13_0.<UpdateSite>b__0()
+2022-04-21 09:44:59,892  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 09:53:22,747  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 09:59:44,376  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 10:01:09,504  [19]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Remark' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 10:04:07,705  [24]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Remark' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 10:04:13,521  [24]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Remark' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 10:04:43,018  [24]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'Remark' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 10:06:24,506  [24]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'IsEnable' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 10:07:07,122  [24]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Incorrect integer value: 'df338fee806d23e5' for column `new_world`.`site`.`RecordID` at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 10:09:28,353  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:14:55,637  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:18:28,248  [16]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '?????' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:18:29,500  [16]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '?????' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:19:15,068  [32]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '?????' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:22:03,245  [32]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '?????' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:24:11,549  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:24:45,641  [14]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '?????' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:27:09,072  [14]  ERROR  写入数据异常 tabname:Site
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '?????' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:35:00,021  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:40:13,121  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:40:54,875  [4]  ERROR  创建站点信息异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'new_world.jy_rating.sys_device' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.DeviceServices.DeviceService.<>c__DisplayClass10_0.<CreateDevice>b__0() in F:\Work\Plan B\service\TCService\Business.DeviceServices\DeviceService.cs:line 42
+2022-04-21 11:42:13,286  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:44:21,304  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:44:26,842  [16]  ERROR  写入数据异常 tabname:Device
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'jy_rating.device' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:45:20,049  [5]  ERROR  写入数据异常 tabname:Device
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'jy_rating.device' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 11:45:51,152  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 11:47:55,390  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 21:51:10,576  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 22:16:23,726  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 22:38:34,241  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 22:42:08,259  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 22:43:40,506  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 22:44:55,573  [1]  ERROR  组件没有名称：PermissionBaseService
+2022-04-21 22:45:15,174  [7]  ERROR  写入数据异常 tabname:Area_Province
+MySql.Data.MySqlClient.MySqlException (0x80004005): Incorrect datetime value: '' for column `new_world`.`area_province`.`UpdateTime` at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 22:46:03,284  [5]  ERROR  写入数据异常 tabname:Area_Province
+MySql.Data.MySqlClient.MySqlException (0x80004005): Incorrect datetime value: '' for column `new_world`.`area_province`.`UpdateTime` at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 22:46:34,974  [5]  ERROR  写入数据异常 tabname:Area_Province
+MySql.Data.MySqlClient.MySqlException (0x80004005): Incorrect datetime value: '' for column `new_world`.`area_province`.`UpdateTime` at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.Insert[T](T t, String tableName) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 49
+2022-04-21 22:47:42,158  [1]  ERROR  组件没有名称：PermissionBaseService

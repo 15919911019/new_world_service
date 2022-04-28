@@ -1,0 +1,38 @@
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.UserModels.deps.json
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.UserModels.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\ref\CBP.UserModels.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.UserModels.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.Models.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.Models.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.csproj.CopyComplete
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\ref\CBP.UserModels.dll
+F:\work\SpecialLocalProduct\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.pdb
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.UserModels.deps.json
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.UserModels.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\ref\CBP.UserModels.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.UserModels.pdb
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.Models.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\Public.Tools.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\CBP.Models.pdb
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\Public.Tools.pdb
+F:\Work\Plan B\service\TCService\CBP.UserModels\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.csprojAssemblyReference.cache
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.AssemblyInfoInputs.cache
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.AssemblyInfo.cs
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.csproj.CoreCompileInputs.cache
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.csproj.CopyComplete
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\ref\CBP.UserModels.dll
+F:\Work\Plan B\service\TCService\CBP.UserModels\obj\Debug\net5.0\CBP.UserModels.pdb

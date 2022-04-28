@@ -1,0 +1,12 @@
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\bin\Debug\netcoreapp3.1\Business.LocationModels.deps.json
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\bin\Debug\netcoreapp3.1\Business.LocationModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\bin\Debug\netcoreapp3.1\Business.LocationModels.pdb
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\bin\Debug\netcoreapp3.1\Public.Tools.dll
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\bin\Debug\netcoreapp3.1\Public.Tools.pdb
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.csproj.CopyComplete
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.LocationModels\obj\Debug\netcoreapp3.1\Business.LocationModels.pdb

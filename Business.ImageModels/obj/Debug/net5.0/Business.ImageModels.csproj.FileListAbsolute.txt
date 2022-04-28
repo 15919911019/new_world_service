@@ -1,0 +1,23 @@
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.deps.json
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Debug\net5.0\ref\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\ref\Business.ImageModels.dll
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.pdb
+F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.csprojAssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.deps.json
+F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.dll
+F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\ref\Business.ImageModels.dll
+F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.pdb
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.AssemblyInfoInputs.cache
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.AssemblyInfo.cs
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.csproj.CoreCompileInputs.cache
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.dll
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\ref\Business.ImageModels.dll
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.pdb

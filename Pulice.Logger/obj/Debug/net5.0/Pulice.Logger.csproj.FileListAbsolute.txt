@@ -1,0 +1,23 @@
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\net5.0\Pulice.Logger.deps.json
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\net5.0\ref\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.csprojAssemblyReference.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.AssemblyInfoInputs.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.AssemblyInfo.cs
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.csproj.CoreCompileInputs.cache
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\ref\Pulice.Logger.dll
+F:\work\SpecialLocalProduct\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.pdb
+F:\Work\Plan B\service\TCService\Pulice.Logger\bin\Debug\net5.0\Pulice.Logger.deps.json
+F:\Work\Plan B\service\TCService\Pulice.Logger\bin\Debug\net5.0\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\Pulice.Logger\bin\Debug\net5.0\ref\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\Pulice.Logger\bin\Debug\net5.0\Pulice.Logger.pdb
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.AssemblyInfoInputs.cache
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.AssemblyInfo.cs
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.csproj.CoreCompileInputs.cache
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\ref\Pulice.Logger.dll
+F:\Work\Plan B\service\TCService\Pulice.Logger\obj\Debug\net5.0\Pulice.Logger.pdb
