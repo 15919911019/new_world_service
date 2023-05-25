@@ -184,7 +184,6 @@ F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.Main.deps.json
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.Main.runtimeconfig.json
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.Main.runtimeconfig.dev.json
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.Main.dll
-F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\ref\CBP.Main.dll
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.Main.pdb
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\aliyun-net-sdk-core.dll
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\AutoMapper.dll
@@ -327,14 +326,12 @@ F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.ImageModels.
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.Permission.Models.pdb
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\CBP.UserModels.pdb
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Public.DbHelper.pdb
-F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.AssemblyInfo.cs
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.csproj.CoreCompileInputs.cache
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.MvcApplicationPartsAssemblyInfo.cache
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\CBP.Main.StaticWebAssets.Manifest.cache
-F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\CBP.Main.StaticWebAssets.xml
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\scopedcss\bundle\CBP.Main.styles.css
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.RazorTargetAssemblyInfo.cache
 F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.csproj.CopyComplete
@@ -350,3 +347,14 @@ F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.AreaModels.d
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.AreaModels.pdb
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.AreaServices.dll
 F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.AreaServices.pdb
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\CBP.Main.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.TemplateModels.dll
+F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.TemplateServices.dll
+F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.TemplateServices.pdb
+F:\Work\Plan B\service\TCService\CBP.Main\bin\Debug\net5.0\Business.TemplateModels.pdb
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\CBP.Main.StaticWebAssets.Pack.cache
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\msbuild.CBP.Main.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\msbuild.build.CBP.Main.props
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CBP.Main.props
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CBP.Main.props
+F:\Work\Plan B\service\TCService\CBP.Main\obj\Debug\net5.0\refint\CBP.Main.dll

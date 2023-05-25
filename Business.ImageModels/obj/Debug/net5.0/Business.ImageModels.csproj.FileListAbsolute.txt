@@ -12,7 +12,6 @@ F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Busi
 F:\work\SpecialLocalProduct\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.deps.json
 F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.dll
-F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\ref\Business.ImageModels.dll
 F:\Work\Plan B\service\TCService\Business.ImageModels\bin\Debug\net5.0\Business.ImageModels.pdb
 F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.AssemblyInfoInputs.cache
@@ -21,3 +20,5 @@ F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.
 F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.dll
 F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\ref\Business.ImageModels.dll
 F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.pdb
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\Business.ImageModels.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.ImageModels\obj\Debug\net5.0\refint\Business.ImageModels.dll

@@ -1,6 +1,5 @@
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.DeviceServices.deps.json
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.DeviceServices.dll
-F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\ref\Business.DeviceServices.dll
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.DeviceServices.pdb
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.DeviceModels.dll
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\CBP.BaseServices.dll
@@ -14,7 +13,6 @@ F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\CBP.Mo
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Public.DbHelper.pdb
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Public.Tools.pdb
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Pulice.Logger.pdb
-F:\Work\Plan B\service\TCService\Business.DeviceServices\obj\Debug\net5.0\Business.DeviceServices.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\Business.DeviceServices\obj\Debug\net5.0\Business.DeviceServices.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\Business.DeviceServices\obj\Debug\net5.0\Business.DeviceServices.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\Business.DeviceServices\obj\Debug\net5.0\Business.DeviceServices.AssemblyInfo.cs
@@ -27,3 +25,5 @@ F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Busine
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.AreaServices.dll
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.AreaServices.pdb
 F:\Work\Plan B\service\TCService\Business.DeviceServices\bin\Debug\net5.0\Business.AreaModels.pdb
+F:\Work\Plan B\service\TCService\Business.DeviceServices\obj\Debug\net5.0\Business.DeviceServices.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.DeviceServices\obj\Debug\net5.0\refint\Business.DeviceServices.dll

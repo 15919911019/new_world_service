@@ -1,6 +1,5 @@
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Business.AreaModels.deps.json
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Business.AreaModels.dll
-F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\ref\Business.AreaModels.dll
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Business.AreaModels.pdb
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\CBP.Models.dll
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Public.Tools.dll
@@ -8,7 +7,6 @@ F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Pulice.Log
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\CBP.Models.pdb
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Public.Tools.pdb
 F:\Work\Plan B\service\TCService\Business.AreaModels\bin\Debug\net5.0\Pulice.Logger.pdb
-F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.AssemblyInfo.cs
@@ -17,3 +15,5 @@ F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.A
 F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.dll
 F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\ref\Business.AreaModels.dll
 F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.pdb
+F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\Business.AreaModels.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.AreaModels\obj\Debug\net5.0\refint\Business.AreaModels.dll

@@ -1,6 +1,5 @@
 F:\Work\Plan B\service\TCService\Business.Area\bin\Debug\net5.0\Business.AreaServices.deps.json
 F:\Work\Plan B\service\TCService\Business.Area\bin\Debug\net5.0\Business.AreaServices.dll
-F:\Work\Plan B\service\TCService\Business.Area\bin\Debug\net5.0\ref\Business.AreaServices.dll
 F:\Work\Plan B\service\TCService\Business.Area\bin\Debug\net5.0\Business.AreaServices.pdb
 F:\Work\Plan B\service\TCService\Business.Area\bin\Debug\net5.0\Business.AreaModels.dll
 F:\Work\Plan B\service\TCService\Business.Area\bin\Debug\net5.0\CBP.BaseServices.dll
@@ -22,4 +21,5 @@ F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\Business.AreaSer
 F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\Business.AreaServices.dll
 F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\ref\Business.AreaServices.dll
 F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\Business.AreaServices.pdb
-F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\Business.AreaServices.csprojAssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\Business.AreaServices.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.Area\obj\Debug\net5.0\refint\Business.AreaServices.dll

@@ -152,13 +152,13 @@ namespace Business.DeviceServices
         #region Unit
 
 
-        public Task<ResponseModel> CreateUnit(string name, string siteID)
+        public Task<ResponseModel> CreateUnit(string name, string unitID)
         {
             return Task.Factory.StartNew(() =>
             {
                 try
                 {
-                    var count = _unitDal.CreateUnit(name, siteID);
+                    var count = _unitDal.CreateUnit(name, unitID);
                     return new ResponseModel() { Code = count ? ErrorCodeEnum.Success : ErrorCodeEnum.Fail };
                 }
                 catch (Exception ex)
@@ -169,13 +169,13 @@ namespace Business.DeviceServices
             });
         }
 
-        public Task<ResponseModel> UpdateUnit(string name, string siteID, string id)
+        public Task<ResponseModel> UpdateUnit(string name, string unitID, string id)
         {
             return Task.Factory.StartNew(() =>
             {
                 try
                 {
-                    var count = _unitDal.UpdateUnit(name,siteID, id);
+                    var count = _unitDal.UpdateUnit(name, unitID, id);
                     return new ResponseModel() { Code = count ? ErrorCodeEnum.Success : ErrorCodeEnum.Fail };
                 }
                 catch (Exception ex)
@@ -229,13 +229,13 @@ namespace Business.DeviceServices
 
         #region Site
 
-        public Task<ResponseModel> CreateSite(string name, string countyID)
+        public Task<ResponseModel> CreateSite(string name, string siteID)
         {
             return Task.Factory.StartNew(() =>
             {
                 try
                 {
-                    var res = _siteDal.CreateSite(name, countyID);
+                    var res = _siteDal.CreateSite(name, siteID);
                     return new ResponseModel()
                     {
                         Code = res ? ErrorCodeEnum.Success : ErrorCodeEnum.Fail

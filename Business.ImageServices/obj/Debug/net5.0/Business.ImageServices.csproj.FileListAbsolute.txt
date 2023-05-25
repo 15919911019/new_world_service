@@ -25,7 +25,6 @@ F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\re
 F:\work\SpecialLocalProduct\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.pdb
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.deps.json
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.dll
-F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\ref\Business.ImageServices.dll
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageServices.pdb
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Business.ImageModels.dll
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.BaseServices.dll
@@ -39,7 +38,6 @@ F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\CBP.Mod
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Pulice.Logger.pdb
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Public.DbHelper.pdb
 F:\Work\Plan B\service\TCService\Business.ImageServices\bin\Debug\net5.0\Public.Tools.pdb
-F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.AssemblyInfo.cs
@@ -48,3 +46,5 @@ F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Busines
 F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.dll
 F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\ref\Business.ImageServices.dll
 F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.pdb
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\Business.ImageServices.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\Business.ImageServices\obj\Debug\net5.0\refint\Business.ImageServices.dll

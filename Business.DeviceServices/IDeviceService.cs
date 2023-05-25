@@ -41,7 +41,7 @@ namespace Business.DeviceServices
 
         #region Site
 
-        Task<ResponseModel> CreateSite(string name, string countyID);
+        Task<ResponseModel> CreateSite(string name, string siteID);
 
         Task<ResponseModel> UpdateSite(string name, string countyID, string recordID);
 

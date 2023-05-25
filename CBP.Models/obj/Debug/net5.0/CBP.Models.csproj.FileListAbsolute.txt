@@ -17,13 +17,11 @@ F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Debug\net5.0\ref\CBP.Models
 F:\work\SpecialLocalProduct\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.pdb
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\CBP.Models.deps.json
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\CBP.Models.dll
-F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\ref\CBP.Models.dll
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\CBP.Models.pdb
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\Public.Tools.dll
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\Pulice.Logger.dll
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\Public.Tools.pdb
 F:\Work\Plan B\service\TCService\CBP.Models\bin\Debug\net5.0\Pulice.Logger.pdb
-F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.AssemblyInfo.cs
@@ -32,3 +30,5 @@ F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.csproj.C
 F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.dll
 F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\ref\CBP.Models.dll
 F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.pdb
+F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\CBP.Models.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\CBP.Models\obj\Debug\net5.0\refint\CBP.Models.dll

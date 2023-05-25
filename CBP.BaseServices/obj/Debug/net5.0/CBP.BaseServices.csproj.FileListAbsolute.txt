@@ -21,7 +21,6 @@ F:\work\SpecialLocalProduct\TCService\CBP.BaseServices\obj\Debug\net5.0\ref\CBP.
 F:\work\SpecialLocalProduct\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.pdb
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\CBP.BaseServices.deps.json
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\CBP.BaseServices.dll
-F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\ref\CBP.BaseServices.dll
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\CBP.BaseServices.pdb
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\CBP.Models.dll
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\Public.DbHelper.dll
@@ -31,7 +30,6 @@ F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\CBP.Models.pd
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\Public.DbHelper.pdb
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\Public.Tools.pdb
 F:\Work\Plan B\service\TCService\CBP.BaseServices\bin\Debug\net5.0\Pulice.Logger.pdb
-F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.AssemblyInfo.cs
@@ -40,3 +38,5 @@ F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServi
 F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.dll
 F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\ref\CBP.BaseServices.dll
 F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.pdb
+F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\CBP.BaseServices.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\CBP.BaseServices\obj\Debug\net5.0\refint\CBP.BaseServices.dll

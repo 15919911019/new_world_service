@@ -1,0 +1,76 @@
+2023-05-12 11:24:56,159  [1]  ERROR  组件没有名称：PermissionBaseService
+2023-05-12 13:52:46,017  [1]  ERROR  组件没有名称：PermissionBaseService
+2023-05-12 14:00:46,850  [.NET ThreadPool Worker]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): FUNCTION new_world.conut does not exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String countSql, String dataSql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 247
+2023-05-12 14:00:49,632  [.NET ThreadPool Worker]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): FUNCTION new_world.conut does not exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String countSql, String dataSql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 247
+2023-05-12 14:01:44,916  [.NET ThreadPool Worker]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): FUNCTION new_world.conut does not exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String countSql, String dataSql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 247
+2023-05-12 14:02:36,490  [1]  ERROR  组件没有名称：PermissionBaseService
+2023-05-12 14:03:07,615  [.NET ThreadPool Worker]  ERROR  查询数据异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): FUNCTION new_world.conut does not exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Public.DbHelper.MySql.MySqlClient.Query[T](String countSql, String dataSql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 247
+2023-05-12 14:03:22,207  [1]  ERROR  组件没有名称：PermissionBaseService
+2023-05-12 14:17:07,310  [.NET ThreadPool Worker]  ERROR  更新模型异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'whererecordid = 'b50e0ced6031f4da'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.TemplateServices.Dal.TemplateDal.Update(TemplateModel template) in F:\Work\Plan B\service\TCService\Business.TemplateServices\Dal\TemplateDal.cs:line 88
+2023-05-12 14:18:32,482  [.NET ThreadPool Worker]  ERROR  更新模型异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'whererecordid = 'b50e0ced6031f4da'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.TemplateServices.Dal.TemplateDal.Update(TemplateModel template)
+2023-05-12 14:18:46,486  [.NET ThreadPool Worker]  ERROR  更新模型异常
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'whererecordid = 'b50e0ced6031f4da'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlHelper.ExecuteNonQuery(MySqlConnection connection, String commandText, MySqlParameter[] commandParameters)
+   at Public.DbHelper.MySql.MySqlClient.ExecuteSql(String sql) in F:\Work\Plan B\service\TCService\Public.DbHelper\MySql\MySqlClient.cs:line 31
+   at Business.TemplateServices.Dal.TemplateDal.Update(TemplateModel template)
+2023-05-12 15:28:27,448  [1]  ERROR  组件没有名称：PermissionBaseService
+2023-05-12 15:29:17,609  [1]  ERROR  组件没有名称：PermissionBaseService
+2023-05-12 15:34:53,661  [1]  ERROR  组件没有名称：PermissionBaseService

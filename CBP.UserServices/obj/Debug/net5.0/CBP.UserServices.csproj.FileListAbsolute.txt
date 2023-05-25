@@ -30,7 +30,6 @@ F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.UserServi
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.UserServices.runtimeconfig.json
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.UserServices.runtimeconfig.dev.json
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.UserServices.dll
-F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\ref\CBP.UserServices.dll
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.UserServices.pdb
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.BaseServices.dll
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.Models.dll
@@ -44,7 +43,6 @@ F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\Pulice.Logger
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\CBP.Models.pdb
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\Public.DbHelper.pdb
 F:\Work\Plan B\service\TCService\CBP.UserServices\bin\Debug\net5.0\Public.Tools.pdb
-F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.csprojAssemblyReference.cache
 F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.GeneratedMSBuildEditorConfig.editorconfig
 F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.AssemblyInfoInputs.cache
 F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.AssemblyInfo.cs
@@ -54,3 +52,5 @@ F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServi
 F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\ref\CBP.UserServices.dll
 F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.pdb
 F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.genruntimeconfig.cache
+F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\CBP.UserServices.csproj.AssemblyReference.cache
+F:\Work\Plan B\service\TCService\CBP.UserServices\obj\Debug\net5.0\refint\CBP.UserServices.dll
