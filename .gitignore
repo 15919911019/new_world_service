@@ -3,7 +3,12 @@
 ################################################################################
 
 
-.vs/*
+/.vs/*
+/.idea/
+/*/bin/*
+/*/obj/*
+/packages/*
+
 /Business.Area/bin
 /Business.Area/obj
 /Business.AreaModels/bin

@@ -248,7 +248,7 @@ namespace Public.DbHelper.MySql
                     if ((Object.Equals(obj, null)) || (Object.Equals(obj, System.DBNull.Value)))
                         return (0, null);
                     else
-                        count = (int)obj;
+                        count = int.Parse(obj.ToString());
 
                     MySqlDataAdapter adapter = new MySqlDataAdapter(dataSql, conn);
                     DataTable dt = new DataTable();
@@ -396,6 +396,7 @@ namespace Public.DbHelper.MySql
 
             foreach (PropertyInfo pi in props)
             {
+                var a = pi.Attributes;
                 var name = pi.Name;
                 var ty = pi.PropertyType;
                 var val = pi.GetValue(t, null);

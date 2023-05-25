@@ -32,7 +32,7 @@ namespace CBP.Main
         {
             services.AddControllers();
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0);
-
+            services.AddDistributedMemoryCache();
             services.AddCors(option =>
             {
                 option.AddPolicy("all", policy => policy

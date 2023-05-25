@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <UserSecretsId>f216894a-4105-4c41-9e3b-ccc04bb3e7a1</UserSecretsId>
   </PropertyGroup>
 
@@ -28,6 +28,7 @@
     <ProjectReference Include="..\Business.Area\Business.AreaServices.csproj" />
     <ProjectReference Include="..\Business.DeviceServices\Business.DeviceServices.csproj" />
     <ProjectReference Include="..\Business.ImageServices\Business.ImageServices.csproj" />
+    <ProjectReference Include="..\Business.TemplateServices\Business.TemplateServices.csproj" />
     <ProjectReference Include="..\CBP.BaseServices\CBP.BaseServices.csproj" />
     <ProjectReference Include="..\CBP.Models\CBP.Models.csproj" />
     <ProjectReference Include="..\CBP.Permission.Services\CBP.Permission.Services.csproj" />
